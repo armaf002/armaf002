@@ -31,24 +31,6 @@ I'm a passionate and self-motivated Data Scientist with experience in using mach
 ## ⚡ Fun fact
 - I'm an Otaku and taekwondo practitioner. In my free time, I enjoy watching anime and practicing martial arts.
 
-
-
-## 🔍 Portfolio
-Here's a list of some of my notable projects:
-
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| final-assignment-Machine-Learning-with-Python-IBM-Skills-Network | Machine Learning with Python, IBM Skills Network Final Project | [Link](https://github.com/armaf002/final-assignment-Machine-Learning-with-Python-IBM-Skills-Network) |
-| Final-assignment-Introduction-to-Deep-Learning-Neural-Networks-with-Keras | Peer-graded Assignment: Build a Regression Model in Keras | [Link](https://github.com/armaf002/Final-assignment---Introduction-to-Deep-Learning-Neural-Networks-with-Keras) |
-| Final-Project-Machine-Learning-with-Python-IBM-Skills-Network | Machine Learning with Python, IBM Skills Network Final assignment | [Link](https://github.com/armaf002/Final-Project-Machine-Learning-with-Python-IBM-Skills-Network) |
-| Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office | Apply the foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie and TV data. | [Link](https://github.com/armaf002/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office) |
-| The-Android-App-Market-on-Google-Play | Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market. | [Link](https://github.com/armaf002/The-Android-App-Market-on-Google-Play) |
-| Zillow-web-scrapping | Functions that take Zillow property url as input and produce data frames of scraped information as output. | [Link](https://github.com/armaf002/Zillow-web-scrapping) |
-| Juniper-Networks-Global-AI-Challenge | Juniper Networks Global AI Challenge to predict hourly sales for cash registers across a retail chain | [Link](https://github.com/armaf002/Juniper-Networks-Global-AI-Challenge) |
-| Financial-Inclusion-in-Africa | Prediction on who in Africa is most likely to have a bank account | [Link](https://github.com/armaf002/Financial-Inclusion-in-Africa) |
-
-
-
 ## 📊 GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=armaf002&show_icons=true&count_private=true)
